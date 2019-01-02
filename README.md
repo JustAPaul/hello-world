@@ -19,3 +19,15 @@ Installed Atom and attempting a commit and push. Fingers crossed.
 Jan 10 2017
 
 I think I've got this ssh thing figured out.
+
+Jan 2019 I'm back at it. Haven't really learned the coding stuff. Lots of life being lived.
+
+Now I'd like to learn about databases as well.
+
+Git with GitHub and ssh still a pain. Regenerated keys, added folder in OneDrive as bare master. God. Why make this so frustrating?
+
+So, I needed to change the default integrated terminal from cmd.exe to the long filepath one at %userdir%\AppData\Local\Git\Portable Git.... then set the origin URL (I think is what fixed it) and I was able to sync.
+
+...but only to OneDrive. Makes sense in hindsight. Found a website instructing to CLONE the github.com repository and have that clone reside in the directory on my OneDrive. Now we're talking!
+
+Fingers crossed; I hope this sync works. If not I'll be back.
